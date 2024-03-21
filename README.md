@@ -1,6 +1,6 @@
 
 > **声明：请遵守相关法规法条** <br> 
-> 国内爬虫违规案件：https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China
+> 国内爬虫违规违法案件：https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China
 
 > 最近这个仓库受到了大量的关注，本身我开源出来这个仓库的目的是提供一种新思路分享给大家学习和了解爬虫。<br> 
 > 但是随着热度的不断暴涨，随之而来的是该仓库可能给各平台方带来不少的服务器压力，以及一些其他不好的影响（虽然我有免责声明，但是不能控制一些使用该仓库的人）<br>
@@ -18,6 +18,18 @@
 <br>
 <a href="https://github.com/NanmiCoder/MediaCrawler/issues/180">整数智能《高级爬虫工程师》招聘</a>
 
+## 赞赏
+开源不易，如果该项目曾经帮助过你，条件允许的话可以给我赞赏。
+<p>
+  <img alt="打赏-微信" src="https://github.com/NanmiCoder/blog_demo_code/blob/main/assets/images/wechat_pay.jpeg?raw=true" style="width: 200px;margin-right: 180px;" />
+  <img alt="打赏-支付宝" src="https://github.com/NanmiCoder/blog_demo_code/blob/main/assets/images/zfb_pay.jpeg?raw=true" style="width: 200px" />
+</p>
+
+## 其他
+> 以后技术教程分享会优先考虑违规问题，本身技术不分好坏，但是有的人会拿它做一些不好的事，所以坚决不做一些让自己陷入麻烦的事儿～（我比较谨慎）<br>
+
+后续会陆陆续续给大家录制分享一些技术教程，请关注我的<a href="https://space.bilibili.com/434377496">B站账号</a>，更新后会第一时间给你发通知.<br>
+B站空间地址：https://space.bilibili.com/434377496
 
 ## star 趋势图
 [![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
