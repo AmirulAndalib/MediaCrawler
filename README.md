@@ -9,7 +9,7 @@
 > 最后感谢下面几个赞助商的赞助<br>
 
 
-## 感谢下列Sponsors对本仓库赞助
+## Sponsor
 <a href="https://dashboard.ipcola.com/register?referral_code=vkybwyucyuidpne">全球ip代理超新星</a>
 <a href="https://dashboard.ipcola.com/register?referral_code=vkybwyucyuidpne" target="_blank"><img src="https://s2.loli.net/2024/03/18/LKJaWcIHQl92ip5.jpg" alt="IPCola,  全球ip代理超新星-官网图"></a><br>
 <br>
@@ -18,14 +18,8 @@
 <br>
 <a href="https://github.com/NanmiCoder/MediaCrawler/issues/180">整数智能《高级爬虫工程师》招聘</a>
 
-## 赞赏
-开源不易，如果该项目曾经帮助过你，条件允许的话可以给我赞赏。
-<p>
-  <img alt="打赏-微信" src="https://github.com/NanmiCoder/blog_demo_code/blob/main/assets/images/wechat_pay.jpeg?raw=true" style="width: 200px;margin-right: 180px;" />
-  <img alt="打赏-支付宝" src="https://github.com/NanmiCoder/blog_demo_code/blob/main/assets/images/zfb_pay.jpeg?raw=true" style="width: 200px" />
-</p>
 
-## 其他
+## 教程
 > 以后技术教程分享会优先考虑违规问题，本身技术不分好坏，但是有的人会拿它做一些不好的事，所以坚决不做一些让自己陷入麻烦的事儿～（我比较谨慎）<br>
 
 后续会陆陆续续给大家录制分享一些技术教程，请关注我的<a href="https://space.bilibili.com/434377496">B站账号</a>，更新后会第一时间给你发通知.<br>
