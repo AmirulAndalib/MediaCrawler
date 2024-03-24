@@ -22,7 +22,9 @@
 ## 教程
 > 以后技术教程分享会优先考虑违规问题，本身技术不分好坏，但是有的人会拿它做一些不好的事，所以坚决不做一些让自己陷入麻烦的事儿～（我比较谨慎）<br>
 
-后续会陆陆续续给大家录制分享一些技术教程，请关注我的<a href="https://space.bilibili.com/434377496">B站账号</a>，更新后会第一时间给你发通知.<br>
+**我已经在github上新建了一个仓库来更新爬虫相关的教程**，感兴趣的朋友可以关注一下，[CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial)。
+
+另外后续也会陆陆续续给大家录制视频教程，请关注我的<a href="https://space.bilibili.com/434377496">B站账号</a>，更新后会第一时间给你发通知.<br>
 B站空间地址：https://space.bilibili.com/434377496
 
 ## star 趋势图
